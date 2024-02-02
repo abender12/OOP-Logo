@@ -1,2 +1,4 @@
 # OOP-Logo
-AS a freelance web developer I WANT to generate a simple logo for my projects SO THAT I don't have to pay a graphic designer
+This creates a simple logo design for personal or business use without the hassle!
+
+## Description
